@@ -1,5 +1,6 @@
 import sys
 
+def defoault():
 def default():
 	print('hello')
 
